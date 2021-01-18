@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="logMessage">Clicked %s.</string>
+    <string name="logActionButton1Text">Button 1</string>
+    <string name="logActionButton2Text">Button 2</string>
+    <string name="logActionButton3Text">Button 3</string>
+</resources>

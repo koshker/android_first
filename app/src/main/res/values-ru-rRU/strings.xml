@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Май аппликейшен</string>
+    <string name="logMessage">Нажали: %s.</string>
+    <string name="logActionButton1Text">Кнопка 1</string>
+    <string name="logActionButton2Text">Кнопка 2</string>
+    <string name="logActionButton3Text">Кнопка 3</string>
+</resources>
